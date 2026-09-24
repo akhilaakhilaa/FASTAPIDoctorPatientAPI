@@ -174,6 +174,11 @@ For example, requesting a doctor ID that does not exist returns:
 ```
 404 - Doctor not found
 ```
+## API Screenshots
+
+### Swagger UI
+
+![Swagger UI](swagger-api.png)
 
 ## Author
 
